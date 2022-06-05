@@ -7,7 +7,7 @@
         білий колір - #FFFFFF;
         основний колір фону - #2F303A;
         другорядний коір фону - #F5F4FA;
-        колір для ховера кнопки - #0a8af3;
+        колір для ховера кнопки - #188CE8;
         колір неактивних кнопок - #F5F4FA;
 
     Жирність тексту:
@@ -27,7 +27,7 @@
     --white--color: #FFFFFF;
     --main-background-color: #2F303A;
     --secondary-background-color: #F5F4FA;
-    --btn-hover-color: #0a8af3;
+    --btn-hover-color: #188CE8;
     --inactive-btn-color: #F5F4FA;
 
     --regular-weight-text: 400;
